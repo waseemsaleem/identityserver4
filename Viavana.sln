@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViavanaIdentityServer", "ViavanaIdentityServer\ViavanaIdentityServer.csproj", "{BA304220-62F3-43DD-92C8-0A102BED53A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViavanaClient", "ViavanaClient\ViavanaClient.csproj", "{F8859128-DD39-4395-B598-9F73A9C6C66C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViavanaWebAPI", "ViavanaWebAPI\ViavanaWebAPI.csproj", "{F93CA4C0-AA07-4F49-973D-F7E10A3E7AB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityClient", "IdentityClient\IdentityClient.csproj", "{0B161F05-F67A-49FB-B0A1-BA654C433000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA304220-62F3-43DD-92C8-0A102BED53A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA304220-62F3-43DD-92C8-0A102BED53A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA304220-62F3-43DD-92C8-0A102BED53A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA304220-62F3-43DD-92C8-0A102BED53A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8859128-DD39-4395-B598-9F73A9C6C66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8859128-DD39-4395-B598-9F73A9C6C66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8859128-DD39-4395-B598-9F73A9C6C66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8859128-DD39-4395-B598-9F73A9C6C66C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F93CA4C0-AA07-4F49-973D-F7E10A3E7AB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F93CA4C0-AA07-4F49-973D-F7E10A3E7AB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F93CA4C0-AA07-4F49-973D-F7E10A3E7AB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F93CA4C0-AA07-4F49-973D-F7E10A3E7AB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B161F05-F67A-49FB-B0A1-BA654C433000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B161F05-F67A-49FB-B0A1-BA654C433000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B161F05-F67A-49FB-B0A1-BA654C433000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B161F05-F67A-49FB-B0A1-BA654C433000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D938C56-068E-46E7-901F-CEE6184F6F22}
+	EndGlobalSection
+EndGlobal
