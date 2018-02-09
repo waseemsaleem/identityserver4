@@ -11,6 +11,10 @@ namespace ViavanaIdentityServer.Controllers
     [Route("api/Client")]
     public class ClientController : Controller
     {
+       public ActionResult Get()
+        {
 
+            return View();
+        }
     }
 }
